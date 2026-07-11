@@ -10,6 +10,15 @@ covering 22 months of transactional data from July 1996 to May 1998.
 - PostgreSQL
 - pgAdmin
 
+## Dashboard Preview
+![Northwind Sales Dashboard](dashboard_preview.png)
+
+**Key Visuals:**
+- Revenue by Employee — shows top performers (Margaret Peacock leads at ~$250K)
+- Monthly Revenue Trend — reveals seasonal patterns and growth trajectory
+- Top 10 Products by Revenue — identifies revenue drivers (Côte de Blaye leads)
+- Customer Segmentation — 46% of customers are High Value spenders
+
 ## Files
 | File | Description |
 |------|-------------|
